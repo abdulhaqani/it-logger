@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Changed card in network",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2020-05-28T02:06:33.529Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "workstation 007 not posting",
+      "message": "needs repair in workstation 1",
       "attention": true,
-      "date": "03-02-2020",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sarah Wilson"
+      "tech": "Sam Smith",
+      "date": "2020-05-28T02:06:48.551Z",
+      "id": 2
     }
   ],
   "techs": [
