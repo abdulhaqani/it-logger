@@ -8,11 +8,11 @@
       "id": 1
     },
     {
+      "id": 2,
       "message": "needs repair in workstation 1",
-      "attention": true,
+      "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-05-28T02:06:48.551Z",
-      "id": 2
+      "date": "2020-05-29T01:10:20.877Z"
     }
   ],
   "techs": [
